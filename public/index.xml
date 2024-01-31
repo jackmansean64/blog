@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.org/posts/your-money-or-your-life-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/your-money-or-your-life-summary/</guid>
+      <description>Introduction We say money can&amp;rsquo;t buy happiness and the best things in life are free, but honesty requires that we look deeper. Our behavior often tells a different story. We think we work to pay the bills, but we spend more than we make on more than we need to impress people we don&amp;rsquo;t like, which sends us back to work again in an endless cycle. Do we come home from making a living with more life?</description>
+    </item>
+  </channel>
+</rss>
