@@ -83,8 +83,7 @@ We can't have an effective working relationship with anything when we don't know
 
 The above definitions are true sometimes, but none are true always. The one thing you can say that is always true for you, one hundred percent of the time, is 4. **money is something you trade your life energy for**. You sell your time for money. Knowing that money is life energy is like taking the red pill, it allows you to maximize and optimize your most previous resources: your time and your life.
 # Step 2: Tracking your life energy
-{{ $image := .Resources.GetMatch "Pasted image 20231211094458.png" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+![image](images/tracking-life.png)
 1. Establish the actual costs in time and money required to maintain your job(s) and compute your real hourly wage.
 2. Keep track of every dollar that comes into or goes out of your life.
 
@@ -94,7 +93,7 @@ There's no one right way to keep track of your money - whatever works best for y
 
 Valuing your life energy and tracking it in this way puts paid employment in perspective and points out how much you are actually getting paid. This allows you to assess current and future employment realistically, in terms of actual earnings. In the process of writing down every dollar coming into and going out of your life, you will begin to discern which expenses are fitting and fulfilling and which are unnecessary, or even downright embarrassing. Think of your true wage next time you're shelling out money for yet another trinket. Ask: Is this thing really worth *that* many hours of my life energy?
 # Step 3: Where is it all going? (Monthly Tabulation)
-![[Pasted image 20231211104818.png|300]]
+![image](images/monthly-tab.png)
 1. Set up your Monthly Tabulation
 2. Enter all money transactions in the appropriate category
 3. Total your money spent and earned in each subcategory
@@ -115,7 +114,7 @@ Saving money is like building a dam on a river. If you lose your paycheck but ha
 
 Your savings rate is one of the most important factors for achieving Financial Independence (FI). Think of it this way: If you spend 100 percent of your paycheck, you will never retire. If you spend 0 percent of your paycheck, then congrats! You are already financially independent and no longer need to work for money. Savings build the potential for freedom - from future emergencies, from being in debt, and from working nine to five until sixty-five.
 # Step 4: Three questions that will transform your life
-![[Pasted image 20231213092253.png|300]]
+![image](images/three-questions.png)
 For each of your category totals expressed as hours of life energy on your Monthly Tabulation, ask these three questions and record your responses:
 1. Did I receive fulfillment, satisfaction, and value in proportion to life energy spent?
 2. Is this expenditure of life energy in alignment with my values and life purpose?
@@ -144,7 +143,7 @@ Three directions in which to look for your purpose are to work with:
 - Your pain, with people whose pain touches your heart
 - What is at hand, with the opportunities that arise daily for responding to the simple needs of others.
 # Step 5: Making life energy visible
-![[Pasted image 20231213100136.png|300]]
+![image](images/make-visible.png)
 Make and keep up-to-date a chart of your total monthly income and total monthly expenses. Look at it often. Share it with others.
 
 Since people often find that their expenses go down post-Financial Independence, you may opt to draw a faint line that floats below the current expense line as an estimate of your post-job lifestyle.
@@ -165,7 +164,7 @@ After reviewing hundreds of FIers' Wall Charts, the authors found that those who
 
 How would you feel about hanging this graphic representation of your financial affairs on your living room wall where everyone can see it? Would you feel at ease - or uneasy? The degree of your discomfort is a measure of the degree of your financial disease.
 # Step 6: Valuing your life energy - minimizing spending
-![[Pasted image 20231214122359.png|300]]
+![image](images/minimize-spending.png)
 Lower your total monthly expenses by valuing your life energy and increasing your consciousness in spending. Learn to choose quality of life over standard of living.
 
 Here are 12 powerful strategies for reducing your spending:
@@ -193,7 +192,7 @@ Despite the ubiquity of money, we can also choose to play the game using other c
 
 Consciousness grows faster than inflation. You can inflate your skills, competencies, knowledge, close companions, and community connections faster than money. Your Financial Independence is only one corner of your foundation of security and freedom. Financial Interdependence includes all four corners: abilities, belonging, community, along with your financial and material wealth. Striking a balance between these is a lifelong process. Together, they will make you rich beyond measure.
 # Step 7: Valuing your life energy - maximizing income
-![[Pasted image 20231215094844.png|300]]
+![image](images/maximize-income.png)
 Increase your income by valuing the life energy you invest in your job, exchanging it for the highest pay consistent with your health and integrity.
 
 Most people are passive, even fatalistic about their income and act out of a victim mentality at the mercy of outside forces. If you see yourself as a victim, you may well be too busy feeling sorry for yourself to notice the many opportunities to change your dismal destiny.
@@ -204,7 +203,7 @@ There is no Job Charming. You need to do a lot of soul-searching, risk taking, e
 
 Seeking the highest pay possible has nothing to do with the "more is better" mentality. If money = life energy, then by increasing your income you increase the amount of life available to you.
 # Step 8: Capital and the crossover point
-![[Pasted image 20231220101600.png|300]]
+![image](images/crossover-point.png)
 Each month, apply the following formula to your total accumulated capital and record the result on your Wall Chart: 
 
 capital * safe withdrawal rate = monthly investment income
@@ -248,7 +247,7 @@ Redefining work in this way:
 - **Honors unpaid activity:** Our inner work - the job of self examination, self-development, and emotional and spiritual maturation - is just as crucial as any other form of work. This also helps reunite work and play, allowing us to enjoy our leisure more.
 - **Sheds a new light on "Right Livelihood":** By giving up the expectation that you need to find paid work that you're truly passionate about, you can do both paid employment and your true calling with more integrity. You can also treat your paid employment years as preparation for your true calling.
 # Step 9: Investing for Financial Independence
-![[Pasted image 20231221105100.png|300]]
+![image](images/financial-independence.png)
 Become knowledgeable and sophisticated about long-term income-producing investments and manage your finances for a consistent income sufficient for your needs.
 
 Set up your financial plan using the three pillars: 
