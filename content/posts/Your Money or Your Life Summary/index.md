@@ -43,7 +43,7 @@ Money is a lien on the earth’s resources. At a physical level, nothing grows f
 
 Streamlining your lifestyle for happiness also happens to dramatically cut down the amount of destruction that is done in your name. By sharing resources with our community, unloading our excess, and avoiding unnecessary purchases, fewer resources must be extracted from the earth, burned or used briefly, and trashed.
 # Why should you follow the YMOYL Program?
-Standard money advice is too meek, claiming that we all have different personal values and we just need to follow our hearts. We are taught that our spending decisions are simply a matter of our personal choices. "If you love expensive cars, that's fine as long as you budget carefully and work hard to make enough money for it." While there are elements of truth in this, it embeds many assumptions about how we should live and ignores the reality that we're all humans and much more similar than we are different.
+Standard money advice is too meek, claiming that we all have different personal values and we just need to follow our hearts. We are taught that our spending decisions are simply a matter of our personal choices. "If you love expensive cars, that's fine as long as you budget carefully and work hard to make enough money for it." While there are elements of truth in this, it embeds many assumptions about how we should live and ignores the reality that we're all humans and are much more similar than different.
 
 Hundreds of thousands of people have followed the YMOYL program and found success. They report that they:
 - Finally understand the basics of money and are at ease talking about finances
