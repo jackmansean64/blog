@@ -63,7 +63,7 @@ You can use the program as a series of tips or advice, or you can let it work it
 
 People who have found success with the program typically display the following qualities: 
 - A purpose for their lives that's greater than their current limited circumstance - including their jobs
-- A willingness to do the work of change, to tell the truth, to be accountable, and to persist. 56
+- A willingness to do the work of change, to tell the truth, to be accountable, and to persist.
 # Step 1: Making Peace with the Past
 ![image](images/making-peace.png)
 Find out:
