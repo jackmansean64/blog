@@ -46,23 +46,23 @@ Streamlining your lifestyle for happiness also happens to dramatically cut down 
 Standard money advice is too meek, claiming that we all have different personal values and we just need to follow our hearts. We are taught that our spending decisions are simply a matter of our personal choices. "If you love expensive cars, that's fine as long as you budget carefully and work hard to make enough money for it." While there are elements of truth in this, it embeds many assumptions about how we should live and ignores the reality that we're all humans and are much more similar than different.
 
 Hundreds of thousands of people have followed the YMOYL program and found success. They report that they:
-- Finally understand the basics of money and are at ease talking about finances
-- Forgive themselves for past money mistakes
-- Spend less money, by an average of 25%
-- Learn how to distinguish between the essentials and the excess 
-- Flatten their debt, save more money than they ever thought possible, and get to retirement earlier than they could imagine
-- Enjoy life more, have more free time, and spend more time on what matters most
-- Improve their relationships with their partners and children
-- Reconnect with old dreams and find ways to realize them
-- Finally have the intellectual and emotional space to take on issues of greater importance
-- Resolve many inner conflicts between their values and their lifestyles, allowing them to put their life in service to their values rather than putting their time in service to money
+- Finally understand the basics of money and are at ease talking about finances.
+- Forgive themselves for past money mistakes.
+- Spend less money, by an average of 25%.
+- Learn how to distinguish between the essentials and the excess.
+- Flatten their debt, save more money than they ever thought possible, and get to retirement earlier than they could imagine.
+- Enjoy life more, have more free time, and spend more time on what matters most.
+- Improve their relationships with their partners and children.
+- Reconnect with old dreams and find ways to realize them.
+- Finally have the intellectual and emotional space to take on issues of greater importance.
+- Resolve many inner conflicts between their values and their lifestyles, allowing them to put their life in service to their values rather than putting their time in service to money.
 # Preface to the program
 Throughout the program, keep in mind that the purpose of the steps are to increase your awareness, not your arrogance or your shame. The mantra you should repeat to yourself while following this program is "No shame, no blame".
 
 You can use the program as a series of tips or advice, or you can let it work its magic by doing all the steps. All the steps matter. They synergize to spur you on. While you can settle for "close enough" answers, you should shoot for full-frontal integrity since the power of the program increases with every ounce of honesty and integrity you invest in it.
 
 People who have found success with the program typically display the following qualities: 
-- A purpose for their lives that's greater than their current limited circumstance - including their jobs
+- A purpose for their lives that's greater than their current limited circumstance - including their jobs.
 - A willingness to do the work of change, to tell the truth, to be accountable, and to persist.
 # Step 1: Making Peace with the Past
 ![image](images/making-peace.png)
@@ -70,7 +70,7 @@ Find out:
 1. How much money you have earned in your lifetime - the sum total of your gross income from your first job to your most recent paycheck.
 2. Your networth by creating a personal balance sheet of assets and liabilities.
 
-Most people have no idea how much money has entered and left their lives, and therefore no idea how much could enter their lives, or how much they have to show for it. 
+Most people have no idea how much money has entered and left their lives, and therefore have no idea how much could enter their lives, or how much they have to show for it. 
 
 For your assets, itemize and record a value for everything you own worth more than a dollar. You should do this for home insurance purposes anyways and realize that if you don't do it now, someone you love will have to do it after you are gone. Most people are surprised how much valuable junk they have, and this step enables you to objectively choose whether or not to convert some of it into cash.
 
@@ -81,7 +81,7 @@ We can't have an effective working relationship with anything when we don't know
 2. **Psychological**: Your fears and longings. Your personality - are you modest or flamboyant, the last of the big spenders or a tightwad? Who influenced your feelings and thoughts about money?
 3. **Cultural**: The beliefs embedded in our laws and customs. More is better, growth is good, winners and losers, private property, rewards and punishments, power and status, macroeconomics. Do you recognize these as the warp onto which you've woven your money life?
 
-The above definitions are true sometimes, but none are true always. The one thing you can say that is always true for you, one hundred percent of the time, is 4. **money is something you trade your life energy for**. You sell your time for money. Knowing that money is life energy is like taking the red pill, it allows you to maximize and optimize your most previous resources: your time and your life.
+The above definitions are true sometimes, but none are true always. The one thing you can say that is always true for you, one hundred percent of the time, is level four: **money is something you trade your life energy for**. You sell your time for money. Knowing that money is life energy is like taking the red pill, it allows you to maximize and optimize your most previous resources: your time and your life.
 # Step 2: Tracking your life energy
 ![image](images/tracking-life.png)
 1. Establish the actual costs in time and money required to maintain your job(s) and compute your real hourly wage.
@@ -94,11 +94,11 @@ There's no one right way to keep track of your money - whatever works best for y
 Valuing your life energy and tracking it in this way puts paid employment in perspective and points out how much you are actually getting paid. This allows you to assess current and future employment realistically, in terms of actual earnings. In the process of writing down every dollar coming into and going out of your life, you will begin to discern which expenses are fitting and fulfilling and which are unnecessary, or even downright embarrassing. Think of your true wage next time you're shelling out money for yet another trinket. Ask: Is this thing really worth *that* many hours of my life energy?
 # Step 3: Where is it all going? (Monthly Tabulation)
 ![image](images/monthly-tab.png)
-1. Set up your Monthly Tabulation
-2. Enter all money transactions in the appropriate category
-3. Total your money spent and earned in each subcategory
-4. Calculate your monthly savings (the difference between your total earnings and spending)
-5. Convert the dollars spent in each subcategory into hours of life energy using your real hourly wage
+1. Set up your Monthly Tabulation.
+2. Enter all money transactions in the appropriate category.
+3. Total your money spent and earned in each subcategory.
+4. Calculate your monthly savings (the difference between your total earnings and spending).
+5. Convert the dollars spent in each subcategory into hours of life energy by dividing your spending by your real hourly wage.
 
 The monthly tabulation approach should not be confused with budgeting. Budgeting is a planning tool, while this program is an "awareness of your enough point" tool. It's about your uniqueness rather than standard budgeting categories with conventional wisdom advice suggesting how much of your income should be spent in each category. You want to observe and adjust your patterns of spending over the long term, not what you spend over the short term. It's mindful eating rather than dieting[^2]. 
 
@@ -132,15 +132,15 @@ Values are those principles and qualities that matter to us. Our values reflect 
 
 Purpose is the overarching goal that embodies our values and our dreams. Purpose implies direction and time - you do something now to have something later that you value. It's a chosen dedication of your life energy to something you believe is more important than your individual little existence.
 
-Viktor Frankl observed that there was a factor beyond intellect or psychology that allowed some people to retain their humanity in inhumane circumstances. This factor, he concluded, was meaning. The will to have meaning and purpose in life, he said, is superior to the will to have power or find pleasure[^4].
+Viktor Frankl observed that there was a factor beyond intellect or psychology that allowed some people to retain their humanity in inhumane circumstances. This factor, he concluded, was meaning. "The will to have meaning and purpose in life", he said, "is superior to the will to have power or find pleasure[^4]."
 
 A powerful example of the different kinds of meaning and purpose we can find for ourselves are depicted in the parable about three stonecutters, each chipping away at a large block. A passerby approaches the first stonecutter and asks, “Excuse me, what are you doing?” The stonecutter replies rather gruffly, “Can’t you see? I’m chipping away at this big hunk of stone.” Approaching the second craftsman, our curious person asks the same question. This stonecutter looks up with a mixture of pride and resignation and says, “Why, I’m earning a living to take care of my wife and children.” Moving to the third worker, our questioner asks, “And what are you doing?” The third stonecutter looks up, his face shining, and says with reverence, “I’m building a cathedral!”
 
 Try to write down your values and purpose in life. It may have nothing to do with how you are currently spend your time. It may not seem significant to others. It may not even be very clear to you yet. Just do the best you can, and if over time you see them changing that's fine. Use these stated values and purpose to measure your actions.
 
 Three directions in which to look for your purpose are to work with:
-- Your passion, on projects you care deeply about
-- Your pain, with people whose pain touches your heart
+- Your passion, on projects you care deeply about.
+- Your pain, with people whose pain touches your heart.
 - What is at hand, with the opportunities that arise daily for responding to the simple needs of others.
 # Step 5: Making life energy visible
 ![image](images/make-visible.png)
@@ -148,19 +148,19 @@ Make and keep up-to-date a chart of your total monthly income and total monthly 
 
 Since people often find that their expenses go down post-Financial Independence, you may opt to draw a faint line that floats below the current expense line as an estimate of your post-job lifestyle.
 
-This chart is powerful and serves many purposes, it:
-- Is a constant reminder of your commitment to honor and transform your relationship with money (life energy)
-- Is a feedback system, clearly showing you at a glance your current status and progress towards your goal
-- Is an inspiration, an experience of satisfaction spurring you to even greater heights
-- Is a motivation, a prod to keep you on track when discouragement creeps in
-- Puts your integrity on the line - visibly. It is hard to lie to yourself about your progress in the presence of your Wall Chart
-- Enlists continuing support. By having it visible where others can see it, you're inviting interest and participation
+This chart is powerful and serves many purposes. It:
+- Is a constant reminder of your commitment to honor and transform your relationship with money (life energy).
+- Is a feedback system, clearly showing you at a glance your current status and progress towards your goal.
+- Is an inspiration, an experience of satisfaction spurring you to even greater heights.
+- Is a motivation, a prod to keep you on track when discouragement creeps in.
+- Puts your integrity on the line - visibly. It is hard to lie to yourself about your progress in the presence of your Wall Chart.
+- Enlists continuing support. By having it visible where others can see it, you're inviting interest and participation.
 - Helps address three keys of behavior change:
-	- Make it a habit rather than a choice
-	- Be accountable to someone else
-	- Keep track
+	- Make it a habit rather than a choice.
+	- Be accountable to someone else.
+	- Keep track.
 
-After reviewing hundreds of FIers' Wall Charts, the authors found that those who got past the three-month hump of the program tended to see their expenses dropped painlessly by about 20 percent. A shift takes place, and you start to find yourself feeling better and deriving fulfilment by not spending unnecessarily rather than by consuming.
+After reviewing hundreds of FIers' Wall Charts, the authors found that those who got past the three-month hump of the program tended to see their expenses drop painlessly by about 20 percent. A shift takes place, and you start to find yourself feeling better and deriving fulfilment by not spending unnecessarily rather than by consuming.
 
 How would you feel about hanging this graphic representation of your financial affairs on your living room wall where everyone can see it? Would you feel at ease - or uneasy? The degree of your discomfort is a measure of the degree of your financial disease.
 # Step 6: Valuing your life energy - minimizing spending
@@ -168,18 +168,18 @@ How would you feel about hanging this graphic representation of your financial a
 Lower your total monthly expenses by valuing your life energy and increasing your consciousness in spending. Learn to choose quality of life over standard of living.
 
 Here are 12 powerful strategies for reducing your spending:
-1. **Stop trying to impress people.** Other people are likely so busy trying to impress you that they will, at best, not notice your efforts and at worst, resent you for one-upping them. Conspicuous consumption does not improve your life but merely serves to inflate your ego. 
-2. **Don't go shopping.** Workout your frugality muscles by developing a discipline of buying only what you need and recognizing hidden advertising in the content you consume.
-3. **Live within your means**. Wait until you have the money before you buy something. This avoids interest charges and adds a waiting period during which you may discover you don't really need the thing after all.
-4. **Take care of what you have.** Many possessions can be repaired for a fraction of their replacement cost or maintained to extend their life. Taking care of our health can save us thousands over our lifetime, and our bodies can't be replaced!
-5. **Wear it out.** How much money would you save if you decided to use things even 20 percent longer? However, this does not mean using something until it wears you out.
-6. **Do it yourself.** Before you hire an expert ask yourself: "can I do this myself? What would it take to learn how? Would it be a useful skill to know?"
-7. **Anticipate your needs.** With enough lead time you will likely find the items you need at a cheaper price. Software price trackers can automatically alert you when your targeted item goes on sale.
-8. **Research value, quality, durability, multiple use, and price.** Spending $40 on a tool that lasts ten years instead of spending $30 on one that needs to be replaced in five saves you $20. Buying one item for $10 that serves the purpose of four different $5 items saves you $10.
-9. **Buy it for less.** Comparison shop, bargain, buy used, and use meta-search websites and browser add-ons that allow you to check prices on many sites simultaneously.
-10. **Meet your needs differently.** The principle of substitution states that there are many ways to meet a need. For example, "freedom" may mean "travel" to you, but what are you really looking for? What values or desires lie behind that core need? Often it's novelty, stimulation, or getting out of daily and sometimes deadening routines. This change in feeling state can often be accomplished equally well with creative substitution.
-11. **Focus on top spending categories.** For most people, this is housing, personal vehicles, and children.
-12. **Follow the nine steps of this program.**
+1. **Stop trying to impress people**: Other people are likely so busy trying to impress you that they will, at best, not notice your efforts and at worst, resent you for one-upping them. Conspicuous consumption does not improve your life but merely serves to inflate your ego. 
+2. **Don't go shopping**: Workout your frugality muscles by developing a discipline of buying only what you need and recognizing hidden advertising in the content you consume.
+3. **Live within your means**: Wait until you have the money before you buy something. This avoids interest charges and adds a waiting period during which you may discover you don't really need the thing after all.
+4. **Take care of what you have**: Many possessions can be repaired for a fraction of their replacement cost or maintained to extend their life. This extends to our bodies as well: taking care of our health can save us thousands over our lifetime, and our bodies can't be replaced!
+5. **Wear it out**: How much money would you save if you decided to use things even 20 percent longer? However, this does not mean using something until it wears you out.
+6. **Do it yourself**: Before you hire an expert ask yourself: "can I do this myself? What would it take to learn how? Would it be a useful skill to know?"
+7. **Anticipate your needs**: With enough lead time you will likely find the items you need at a cheaper price. Software price trackers can automatically alert you when your targeted item goes on sale.
+8. **Research value, quality, durability, multiple use, and price**: Spending $40 on a tool that lasts ten years instead of spending $30 on one that needs to be replaced in five saves you $20. Buying one item for $10 that serves the purpose of four different $5 items saves you $10.
+9. **Buy it for less**: Comparison shop, bargain, buy used, and use meta-search websites and browser add-ons that allow you to check prices on many sites simultaneously.
+10. **Meet your needs differently**: The principle of substitution states that there are many ways to meet a need. For example, "freedom" may mean "travel" to you, but what are you really looking for? What values or desires lie behind that core need? Often it's novelty, stimulation, or getting out of daily and sometimes deadening routines. This change in feeling state can often be accomplished equally well with creative substitution.
+11. **Focus on top spending categories**: For most people, this is housing, personal vehicles, and children.
+12. **Follow the nine steps of this program**.
 
 Chances are very good that you could be spending less on every purchase with no reduction in the quality of product or the quality of your life. It's the attitude of honoring your life energy that will show you the way, not following someone else's recipe for a frugal life.
 ## Supporting Idea: Society continuously works to convince us we need to consume more to be happy
@@ -199,14 +199,14 @@ Most people are passive, even fatalistic about their income and act out of a vic
 
 To be successful, cultivate attitudes of self-respect, pride in your contribution to your workplace, dedication to your job, cooperation with your employers and coworkers, desire to do the job right, personal integrity, responsibility, and accountability. Wherever you are working, you are working for yourself. You are committed to excellence at your job because you're committed to 100 percent integrity, no matter what you're doing.
 
-There is no Job Charming. You need to do a lot of soul-searching, risk taking, experimenting, and challenging of old beliefs in order to move forward into jobs with higher pay and high integrity.
+As with relationships, there is no "Job Charming". You need to do a lot of soul-searching, risk taking, experimenting, and challenging of old beliefs in order to move forward into jobs with higher pay and high integrity.
 
 Seeking the highest pay possible has nothing to do with the "more is better" mentality. If money = life energy, then by increasing your income you increase the amount of life available to you.
 # Step 8: Capital and the crossover point
 ![image](images/crossover-point.png)
 Each month, apply the following formula to your total accumulated capital and record the result on your Wall Chart: 
 
-capital * safe withdrawal rate = monthly investment income
+**capital * safe withdrawal rate = monthly investment income**
 
 When your monthly investment income line on your Wall Chart "crosses over" your expenses line, you "cross over" into Financial Independence.
 
@@ -240,7 +240,7 @@ Our traditional definition of work has two different functions: the material, fi
 We have confused work with paid employment. Our needs for stimulation, recognition, growth, contribution, interaction, and meaning are not being met by our jobs. Instead, we can redefine work simply as any productive or purposeful activity, with paid employment being just one such example. This frees us from the false assumption that our paid employment should also provide us with our sense of meaning, purpose, and fulfilment. 
 
 Redefining work in this way:
-- **Increases choices**: In selecting work and your identity around your job.
+- **Increases choices** in selecting work and your identity around your job.
 - **Allows us to work from the inside out**: For most people, there's a subtle yet pervasive irresponsibility that comes with work, a sense that we are always doing someone else's bidding. If we think that what we do to make money is who we are, we end up adopting whatever pattern allows us to best survive in the role we find ourselves in.
 - **Makes us life designers, not just wage earners:** Our job becomes school, school becomes play, work becomes self expression. You are your own boss, whether you're paid or not, and you can carve out your own path.
 - **Adds life to our retirement:** Retirement doesn't mean you stop working. It means you can stop working for money.
@@ -251,17 +251,16 @@ Redefining work in this way:
 Become knowledgeable and sophisticated about long-term income-producing investments and manage your finances for a consistent income sufficient for your needs.
 
 Set up your financial plan using the three pillars: 
-1. **Capital** - The income-producing core of your Financial Independence
-2. **Cushion** - Enough ready cash, earning bank interest, to cover three to six months of living expenses
-3. **Cache** - The surplus of funds resulting from your continued practice of the nine steps
+1. **Capital**: The income-producing core of your Financial Independence.
+2. **Cushion**: Enough ready cash, earning bank interest, to cover three to six months of living expenses.
+3. **Cache**: The surplus of funds resulting from your continued practice of the nine steps.
 
 There are five main ways you can earn investment income:
-
-1. **Interest** - periodic payments from fixed income investments such as bonds, notes, CDs, or saving accounts
-2. **Dividends** - shares of profits paid out to owners of stocks, mutual funds, ETFs, or private corporations.
-3. **Capital gains** - proceeds from the sale of investments or real estate beyond the amount originally invested.
-4. **Rents** - from owned real estate
-5. **Royalties** - payments to owners of intellectual property, natural resources, franchises, etc. by their users.
+1. **Interest**: Periodic payments from fixed income investments such as bonds, notes, CDs (certificate of deposits) / GICs (guaranteed investment certificates), or saving accounts.
+2. **Dividends**: Shares of profits paid out to owners of stocks, mutual funds, ETFs, or private corporations.
+3. **Capital gains**: Proceeds from the sale of investments or real estate beyond the amount originally invested.
+4. **Rents**: Rrom owned real estate.
+5. **Royalties**: Payments to owners of intellectual property, natural resources, franchises, etc. by their users.
 
 Risk is a key facet of investing. Your risk tolerance may be related to your age, your personality, how marketable your skills are, life experience, education, your attitudes toward money and credit in general, and many other factors. Online tools and resources can help you determine your risk tolerance. A general rule of thumb is to risk more for greater wealth accumulation when young and shift to preserving capital for a stable income when old. Diversifying investments across asset classes is a proven means of reducing risk without reducing expected returns.
 
