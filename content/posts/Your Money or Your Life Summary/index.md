@@ -66,10 +66,10 @@ People who have found success with the program typically display the following q
 - A willingness to do the work of change, to tell the truth, to be accountable, and to persist.
 # Step 1: Making Peace with the Past
 ![image](images/making-peace.png)
-Find out:
+In this step, find out:
 1. How much money you have earned in your lifetime - the sum total of your gross income from your first job to your most recent paycheck.
 2. Your networth by creating a personal balance sheet of assets and liabilities.
-
+---
 Most people have no idea how much money has entered and left their lives, and therefore have no idea how much could enter their lives, or how much they have to show for it. 
 
 For your assets, itemize and record a value for everything you own worth more than a dollar. You should do this for home insurance purposes anyways and realize that if you don't do it now, someone you love will have to do it after you are gone. Most people are surprised how much valuable junk they have, and this step enables you to objectively choose whether or not to convert some of it into cash.
@@ -115,11 +115,11 @@ Saving money is like building a dam on a river. If you lose your paycheck but ha
 Your savings rate is one of the most important factors for achieving Financial Independence (FI). Think of it this way: If you spend 100 percent of your paycheck, you will never retire. If you spend 0 percent of your paycheck, then congrats! You are already financially independent and no longer need to work for money. Savings build the potential for freedom - from future emergencies, from being in debt, and from working nine to five until sixty-five.
 # Step 4: Three questions that will transform your life
 ![image](images/three-questions.png)
-For each of your category totals expressed as hours of life energy on your Monthly Tabulation, ask these three questions and record your responses:
+In this step, for each of your category totals expressed as hours of life energy on your Monthly Tabulation, ask these three questions and record your responses:
 1. Did I receive fulfillment, satisfaction, and value in proportion to life energy spent?
 2. Is this expenditure of life energy in alignment with my values and life purpose?
 3. How might this expenditure change if I didn't have to work for money?
-
+___
 In each column, record a "+" (or an up arrow), "0", or "-" (or a down arrow) as your response to each question. For question 3, you should also record the estimated change. Finally, review and make a list of all categories with a "-" (or down arrow).
 
 This step is truly the heart of the program. Your monthly tabulations are like a mirror and for many people, the values expressed in their expenditures are not the values they really want to be living. Couples also find this step is a valuable way to discuss differences in their spending habits.
@@ -144,8 +144,8 @@ Three directions in which to look for your purpose are to work with:
 - What is at hand, with the opportunities that arise daily for responding to the simple needs of others.
 # Step 5: Making life energy visible
 ![image](images/make-visible.png)
-Make and keep up-to-date a chart of your total monthly income and total monthly expenses. Look at it often. Share it with others.
-
+In this step, make and keep up-to-date a chart of your total monthly income and total monthly expenses. Look at it often. Share it with others.
+___
 Since people often find that their expenses go down post-Financial Independence, you may opt to draw a faint line that floats below the current expense line as an estimate of your post-job lifestyle.
 
 This chart is powerful and serves many purposes. It:
@@ -160,18 +160,18 @@ This chart is powerful and serves many purposes. It:
 	- Be accountable to someone else.
 	- Keep track.
 
-After reviewing hundreds of FIers' Wall Charts, the authors found that those who got past the three-month hump of the program tended to see their expenses drop painlessly by about 20 percent. A shift takes place, and you start to find yourself feeling better and deriving fulfilment by not spending unnecessarily rather than by consuming.
+After reviewing hundreds of FIers' Wall Charts, the authors found that those who got past the three-month hump of the program tended to see their expenses drop painlessly by about 20 percent. A shift takes place, and you start to find yourself feeling better and deriving fulfilment by saving rather than by spending.
 
 How would you feel about hanging this graphic representation of your financial affairs on your living room wall where everyone can see it? Would you feel at ease - or uneasy? The degree of your discomfort is a measure of the degree of your financial disease.
 # Step 6: Valuing your life energy - minimizing spending
 ![image](images/minimize-spending.png)
-Lower your total monthly expenses by valuing your life energy and increasing your consciousness in spending. Learn to choose quality of life over standard of living.
-
+In this step, lower your total monthly expenses by valuing your life energy and increasing your consciousness in spending. Learn to choose quality of life over standard of living.
+___
 Here are 12 powerful strategies for reducing your spending:
 1. **Stop trying to impress people**: Other people are likely so busy trying to impress you that they will, at best, not notice your efforts and at worst, resent you for one-upping them. Conspicuous consumption does not improve your life but merely serves to inflate your ego. 
 2. **Don't go shopping**: Workout your frugality muscles by developing a discipline of buying only what you need and recognizing hidden advertising in the content you consume.
 3. **Live within your means**: Wait until you have the money before you buy something. This avoids interest charges and adds a waiting period during which you may discover you don't really need the thing after all.
-4. **Take care of what you have**: Many possessions can be repaired for a fraction of their replacement cost or maintained to extend their life. This extends to our bodies as well: taking care of our health can save us thousands over our lifetime, and our bodies can't be replaced!
+4. **Take care of what you have**: Many possessions can be repaired for a fraction of their replacement cost or maintained to prolong their life. This extends to our bodies as well: taking care of our health can save us thousands over our lifetime, and our bodies can't be replaced!
 5. **Wear it out**: How much money would you save if you decided to use things even 20 percent longer? However, this does not mean using something until it wears you out.
 6. **Do it yourself**: Before you hire an expert ask yourself: "can I do this myself? What would it take to learn how? Would it be a useful skill to know?"
 7. **Anticipate your needs**: With enough lead time you will likely find the items you need at a cheaper price. Software price trackers can automatically alert you when your targeted item goes on sale.
@@ -193,23 +193,23 @@ Despite the ubiquity of money, we can also choose to play the game using other c
 Consciousness grows faster than inflation. You can inflate your skills, competencies, knowledge, close companions, and community connections faster than money. Your Financial Independence is only one corner of your foundation of security and freedom. Financial Interdependence includes all four corners: abilities, belonging, community, along with your financial and material wealth. Striking a balance between these is a lifelong process. Together, they will make you rich beyond measure.
 # Step 7: Valuing your life energy - maximizing income
 ![image](images/maximize-income.png)
-Increase your income by valuing the life energy you invest in your job, exchanging it for the highest pay consistent with your health and integrity.
-
+In this step, increase your income by valuing the life energy you invest in your job, exchanging it for the highest pay consistent with your health and integrity.
+___
 Most people are passive, even fatalistic about their income and act out of a victim mentality at the mercy of outside forces. If you see yourself as a victim, you may well be too busy feeling sorry for yourself to notice the many opportunities to change your dismal destiny.
 
 To be successful, cultivate attitudes of self-respect, pride in your contribution to your workplace, dedication to your job, cooperation with your employers and coworkers, desire to do the job right, personal integrity, responsibility, and accountability. Wherever you are working, you are working for yourself. You are committed to excellence at your job because you're committed to 100 percent integrity, no matter what you're doing.
 
-As with relationships, there is no "Job Charming". You need to do a lot of soul-searching, risk taking, experimenting, and challenging of old beliefs in order to move forward into jobs with higher pay and high integrity.
+Life isn't a fairytale; there is no "Job Charming". You need to do a lot of soul-searching, risk taking, experimenting, and challenging of old beliefs in order to move forward into jobs with higher pay and high integrity.
 
 Seeking the highest pay possible has nothing to do with the "more is better" mentality. If money = life energy, then by increasing your income you increase the amount of life available to you.
 # Step 8: Capital and the crossover point
 ![image](images/crossover-point.png)
-Each month, apply the following formula to your total accumulated capital and record the result on your Wall Chart: 
+In this step, apply the following formula to your total accumulated capital in each month and record the result on your Wall Chart: 
 
 **capital * safe withdrawal rate = monthly investment income**
 
 When your monthly investment income line on your Wall Chart "crosses over" your expenses line, you "cross over" into Financial Independence.
-
+___
 The safe withdrawal rate is the rate at which you can safely withdraw from your investments without running out of money. Figuring out exactly what rate to use is complicated and depends on many factors, but 4% is a good first order approximation. Using the 4% rule, your crossover point comes when you have 25 times your annual expenses in investments.
 
 Before FI thinking, the gap between your income and spending meant more spending money. After FI thinking, this gap is seen in a different light. FI thinking calls these savings "capital". If you invest your savings rather than spend them, you will build wealth. Your money will start making money for you at an exponentially increasing rate due to the magic of compounding. For example, an investment growing at 7 percent will roughly double every 10 years.
@@ -248,8 +248,8 @@ Redefining work in this way:
 - **Sheds a new light on "Right Livelihood":** By giving up the expectation that you need to find paid work that you're truly passionate about, you can do both paid employment and your true calling with more integrity. You can also treat your paid employment years as preparation for your true calling.
 # Step 9: Investing for Financial Independence
 ![image](images/financial-independence.png)
-Become knowledgeable and sophisticated about long-term income-producing investments and manage your finances for a consistent income sufficient for your needs.
-
+In this step, become knowledgeable and sophisticated about long-term income-producing investments and manage your finances for a consistent income sufficient for your needs.
+___
 Set up your financial plan using the three pillars: 
 1. **Capital**: The income-producing core of your Financial Independence.
 2. **Cushion**: Enough ready cash, earning bank interest, to cover three to six months of living expenses.
