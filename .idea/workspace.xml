@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03aa7fe0-1674-47fc-a9cb-bfea1b8ab47c" name="Changes" comment="renamed images, updated image references in post">
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/page/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/ananke/layouts/partials/logo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/hugo.toml" afterDir="false" />
-    </list>
+    <list default="true" id="03aa7fe0-1674-47fc-a9cb-bfea1b8ab47c" name="Changes" comment="Created about page, added logo, Modified title to reflect JAQK of All Trades idea, added menu" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +71,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706801712556</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created about page, added logo, Modified title to reflect JAQK of All Trades idea, added menu">
+      <option name="closed" value="true" />
+      <created>1711259159444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711259159445</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="renamed images, updated image references in post" />
-    <option name="LAST_COMMIT_MESSAGE" value="renamed images, updated image references in post" />
+    <MESSAGE value="Created about page, added logo, Modified title to reflect JAQK of All Trades idea, added menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created about page, added logo, Modified title to reflect JAQK of All Trades idea, added menu" />
   </component>
 </project>
