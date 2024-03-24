@@ -1,4 +1,4 @@
-baseURL = 'https://jackmansean64.github.io/'
+baseURL = 'https://jackmansean64.github.io/blog/'
 languageCode = 'en-us'
 title = 'JAQK of All Trades'
 theme = 'ananke'
