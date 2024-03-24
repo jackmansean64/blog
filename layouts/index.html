@@ -1,0 +1,46 @@
+{{ define "main" }}
+<main aria-role="main">
+    <header class="homepage-header">
+        <div class="logo-container">
+            <img src="/images/logo.png" alt="Logo" class="site-logo">
+        </div>
+        <!--        <h1>{{ .Title }}</h1>-->
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{ . }}</span>
+        {{ end }}
+    </header>
+    <div class="homepage-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{ .Content }}
+    </div>
+    <div>
+        {{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary" }}
+        {{ end }}
+    </div>
+</main>
+<style>
+    .homepage-header {
+      display: flex;
+      align-items: center; /* This will vertically center the items if the header has a specific height. */
+      justify-content: center; /* This will horizontally center the items. */
+      flex-direction: column; /* This stacks the logo and subtitle on top of each other. */
+      text-align: center; /* Ensures that if the subtitle wraps, it stays centered under the logo. */
+    }
+
+    .logo-container {
+      max-width: 100px; /* Adjust the size of the logo as needed */
+    }
+
+    .site-logo {
+      width: 100%;
+      height: auto; /* This will ensure the logo scales proportionally */
+      margin-top: 10px; /* Adjust as needed */
+      margin-bottom: 10px; /* Adjust as needed */
+    }
+
+    .homepage-header .subtitle {
+        margin-bottom: 10px;
+}
+</style>
+{{ end }}

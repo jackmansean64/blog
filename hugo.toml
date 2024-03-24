@@ -1,7 +1,27 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jackmansean64.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'JAQK of All Trades'
 theme = 'ananke'
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
+
+[params]
+  subtitle = "A jack of all trades is a master of none, but oftentimes better than a master of one."
+
+[params.navigation]
+    #other stuff
+    logo = "logo.png"
+
+[[menu.main]]
+  name ="Home"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
