@@ -1,6 +1,6 @@
 ---
 title: "Cashflow And Networth Analysis Workbook"
-date: 2024-03-23
+date: 2024-04-11
 draft: false
 ---
 Download
@@ -71,9 +71,11 @@ Once you have a Tiller account setup and linked to the workbook, you can import 
 
 For non-Tiller users, you won't be able to link your accounts and fill your workbook using Tiller Money Feeds, but the rest of the information in the guides above for setting up your foundation sheets is still applicable.
 
-Next, it's time to configure your accounts (https://help.tillerhq.com/en/articles/3250970-reviewing-balances-customizing-accounts) and categories (https://help.tillerhq.com/en/articles/3250769-customizing-categories). You can verify your accounts are setup correctly by inspecting the Balances sheet.
+To import existing transactions and balance history records, you can copy-paste them directly into the transaction and balance history foundation sheets. Ensure that the data matches the schema of these tables (ie. column structure and formats) as closely as possible before copying, as mismatches can create problems when refreshing the data.
 
-The workbook will initially contain some placeholder data in the foundation sheets intended to be overwritten with your data. The purpose of this placeholder data is to help keep the workbook in a valid state, as removing all data can cause errors and changes to pivot table configurations. Overwrite and add to this sample data first then delete it rather than deleting it first to reduce the likelihood of problems. Take extra care not to perform a data refresh when no data is present. If you do, you will likely be better off starting again from a fresh workbook rather than trying to address the issues.
+The workbook initially contains placeholder data in the foundation sheets intended to be overwritten with your data. The purpose of this placeholder data is to help keep the workbook in a valid state, as removing all data can cause errors and changes to pivot table configurations. Overwrite and add to this sample data rather than deleting it first to reduce the likelihood of problems. Take extra care not to perform a data refresh when no data is present. If you do, you will likely be better off starting again from a fresh workbook rather than trying to address the issues.
+
+Finally, it's time to configure your accounts (https://help.tillerhq.com/en/articles/3250970-reviewing-balances-customizing-accounts) and categories (https://help.tillerhq.com/en/articles/3250769-customizing-categories). You can verify your accounts are setup correctly by inspecting the Balances sheet.
 # General Usage
 
 ## Updating Data
@@ -91,6 +93,10 @@ To refresh your data, navigate to the Data tab in the menu and click "Refresh Al
 You can review your data whenever you like, however the workbook was designed predominantly for reviewing on a monthly basis, with some dashboards going so far as to exclude the present month to avoid unsightly partial data. The dashboards excluding the present month include the Cashflow, Networth, and Cashflow and Networth Summary dashboards.
 ## Excluding Transactions
 Often, our financial data contains numerous transactions that we do not want to include in our analysis. The workbook features two designated ways to achieve this. The first, is by applying a category of type "Transfer" to a transaction. The second, is by applying the specific label "Reimbursable" to a transaction. These types of transactions often come in twos (the income transaction and the spending transaction) so make sure you exclude both!
+## Excluding The Present Month
+As this workbook is designed predominantly for monthly analysis, I find that the present month's data often provides little value and mainly just obscures the rest of the data since it isn't yet complete. To alleviate this, some of the dashboard feature a "Present Month" slicer:
+![image](images/Pasted_image_20240411091503.png)
+To exclude the present month, select FALSE. If you want to see all months including the present month, select both TRUE and FALSE (this is counter-intuitive I know, but it's the best solution I could come up with given the limitations of pivot table filters).
 ## Configuring Moving Average Trendlines
 The Cashflow and Networth Summary and Cashflow dashboards feature moving average trendlines to help you understand your data. These trendlines are created by averaging the values over a configurable number of prior periods, and thus may need to be adjusted based on the amount of data you have. As you accumulate more data you will likely want to increase the averaging window to determine longer term trends. 
 
@@ -190,8 +196,8 @@ Custom functions are extremely useful for reusing complex formulas. There are li
 
 Once installed, you can open the Excel Labs pane by navigating to the Home toolbar and clicking Excel Labs on the far right:
 ![image](images/Pasted_image_20240223090713.png)
-From here, select "Names" to see the `GetDynamicRange` custom formula:
-![image](images/Pasted_image_20240223091141.png)
+From here, select "Modules" to see the `GetDynamicRange` custom formula:
+![image](images/Pasted_image_20240411091955.png)
 ## Troubleshooting Dynamic Charts
 Despite my best efforts, I still occasionally find issues with the dynamic charts in the dashboard sheets. Often these are due to small changes in pivot table filters which can mess up the dynamic range formulas described above. These formulas determine the cells of interest by looking at the number of cells in a column containing values minus a manual offset, so if you add a new cell containing a value to said column (like a new pivot table filter) then you need to subsequently increase the offset. To help troubleshoot these issues, each dashboard features a hidden table depicting a mirror of the formulas used to generate the series values. The table displays the formulas used by the chart and their results as shown below:
 ![image](images/Pasted_image_20240223091731.png)
