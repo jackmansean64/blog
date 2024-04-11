@@ -4,7 +4,7 @@ date: 2024-04-11
 draft: false
 ---
 Download
-<a href="/files/Cashflow and Networth Analysis Template 1.0.xlsx" download>Cashflow and Networth Analysis Template 1.0</a>
+<a href="/files/Cashflow and Networth Analysis Template 1.2.xlsx" download>Cashflow and Networth Analysis Template 1.2</a>
 # Overview
 The Cashflow and Networth Analysis Excel Workbook was designed to help you better understand your personal finances by providing detailed insights into your spending, income, assets, and liabilities over time, and by making your progress towards financial independence visible using powerful data visualizations.
 
