@@ -13,7 +13,7 @@ The workbook was designed to integrate seamlessly with Tiller as an extension to
 The workbook was built without using any macros, scripts or VBA code. This decision was made for two main reasons: To make the spreadsheets more accessible to those who aren't familiar with programming and VBA and to meet the requirements outlined by the Tiller Community Builder Rewards Program (since I eventually plan to share this workbook there).
 ## Map
 To help guide you through the numerous spreadsheets included in the workbook and their relationships, the following map was created:
-![image](images/Pasted_image_20240322175301.png)
+![image](images/Pasted_image_20240412213732.png)
 This map depicts the flow of data between spreadsheets (dependencies). At a high level, the data flows from the foundation sheets (transactions, categories, balance history, accounts, and balances) to hidden intermediate sheets that progressively organize and summarize the raw data, and finally to dashboards that summarize the data using charts controls to filter the data as required.
 ## Sheet Overview
 ### Foundation Sheets
