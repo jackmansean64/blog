@@ -1,10 +1,13 @@
 ---
 title: "Cashflow And Networth Analysis Workbook"
-date: 2024-04-12
+date: 2024-04-16
 draft: false
 ---
-Download
-<a href="/files/Cashflow and Networth Analysis Template 1.2.xlsx" download>Cashflow and Networth Analysis Template 1.2</a>
+<a href="/files/CashflowNetworthAnalysisTemplate1.2.xlsx" download>Download Cashflow and Networth Analysis Template 1.2</a>
+
+[A link]("https://jackmansean64.github.io/blog/files/CashflowNetworthAnalysisTemplate1.2.xlsx")
+
+[Tiller Community Post](https://community.tillerhq.com/t/cashflow-and-networth-analysis-workbook-excel/25581)
 # Overview
 The Cashflow and Networth Analysis Excel Workbook was designed to help you better understand your personal finances by providing detailed insights into your spending, income, assets, and liabilities over time, and by making your progress towards financial independence visible using powerful data visualizations.
 
