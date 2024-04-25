@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03aa7fe0-1674-47fc-a9cb-bfea1b8ab47c" name="Changes" comment="Removed leading slash from image source">
+    <list default="true" id="03aa7fe0-1674-47fc-a9cb-bfea1b8ab47c" name="Changes" comment="Added The True Cost of a Down Payment post">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711260232253</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added The True Cost of a Down Payment post">
+      <option name="closed" value="true" />
+      <created>1713976223010</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713976223010</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +134,7 @@
     <MESSAGE value="Renamed cashflow and networth article" />
     <MESSAGE value="experimenting with baseURL" />
     <MESSAGE value="Removed leading slash from image source" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed leading slash from image source" />
+    <MESSAGE value="Added The True Cost of a Down Payment post" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added The True Cost of a Down Payment post" />
   </component>
 </project>
