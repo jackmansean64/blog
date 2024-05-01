@@ -8,10 +8,7 @@ theme = 'ananke'
 
 [params]
   subtitle = "A jack of all trades is a master of none, but oftentimes better than a master of one."
-
-[params.navigation]
-    #other stuff
-    logo = "logo.png"
+  # site_logo = "images/logo.png" # replaces the site name in the top left corner with a logo image
 
 [[menu.main]]
   name ="Home"
