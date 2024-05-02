@@ -2,6 +2,7 @@
 title: "How To Retrieve Correct Highlights From An Amazon Kindle"
 date: 2024-04-17
 draft: false
+toc: true
 ---
 # Background
 eBook highlights are selections of text from the ebooks that you want to save and access later. Passages containing things like quotes, stories, interesting information, key points, etc. are all common reasons to highlight. Ebooks from different manufacturers each have their own means of handling highlights. This article is focused on the Amazon Kindle eReader.

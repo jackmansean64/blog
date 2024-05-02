@@ -2,6 +2,7 @@
 title: "Challenges In Adapting My Cashflow And Networth Excel Workbook To Tiller"
 date: 2024-04-26
 draft: false
+toc: true
 ---
 ## Background
 Unsurprisingly, Tiller's Foundation Template organizes transaction and account data slightly differently than I had been in my existing spreadsheet. In order to integrate cleanly with Tiller and avoid having to manual massage data every month or implement complex, extraneous Excel logic to transform the Tiller data into the format my spreadsheet needs, a revamp of my spreadsheet was in order. 

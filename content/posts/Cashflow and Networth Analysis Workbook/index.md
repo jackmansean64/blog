@@ -2,6 +2,7 @@
 title: "Cashflow And Networth Analysis Workbook"
 date: 2024-04-16
 draft: false
+toc: true
 ---
 [Download Cashflow and Networth Analysis Template 1.2](https://jackmansean64.github.io/blog/files/CashflowNetworthAnalysisTemplate1.2.xlsx)
 

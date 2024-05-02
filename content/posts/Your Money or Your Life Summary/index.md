@@ -2,6 +2,7 @@
 title: "Your Money or Your Life Book Summary"
 date: 2024-01-31
 draft: false
+toc: true
 ---
 # Introduction
 We say money can't buy happiness and the best things in life are free, but honesty requires that we look deeper. Our behavior often tells a different story. We think we work to pay the bills, but we spend more than we make on more than we need to impress people we don't like, which sends us back to work again in an endless cycle. Do we come home from making a living with more life? Or for many of us, does our work feel more like making a dying? Aren't we killing ourselves - our health, our relationships, our sense of joy and wonder, for our jobs?

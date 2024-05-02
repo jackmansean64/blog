@@ -2,6 +2,7 @@
 title: "Using A Margin Loan To Help Finance A Down Payment"
 date: 2024-04-25
 draft: false
+toc: true
 ---
 Are you looking to buy a house and currently have a large investment portfolio? Do you want to finance the house down payment without liquidating your investment portfolio or are looking to take on more loan risk than the bank is willing to provide? Maybe taking out an alternative loan alongside your mortgage is for you. You can even deduct the interest on the loan if you do your accounting correctly effectively reducing the loan interest by your marginal tax rate. 
 #### Words of Caution

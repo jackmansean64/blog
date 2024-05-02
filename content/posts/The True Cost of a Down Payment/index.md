@@ -2,6 +2,7 @@
 title: "The True Cost Of A Down Payment"
 date: 2024-04-24
 draft: false
+toc: true
 ---
 A common question asked by home buyers is how large of a down payment they should make on a new home. There are many opinions and rules of thumb out there on the internet, but few concrete calculations projecting the differences in costs for each down payment scenario and fiscal parameter assumptions. Of course, for many home buyers, considering how much to put down on a house is a luxury they can't afford and will simply be looking to buy a home with as little down as possible. For others who have the flexibility to put down more than the minimum or are willing to wait until they are able to, this is an important question worth considering.
 

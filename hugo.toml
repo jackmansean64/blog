@@ -7,8 +7,13 @@ theme = 'ananke'
   unsafe = true # Allow HTML in md files
 
 [params]
-  subtitle = "A jack of all trades is a master of none, but oftentimes better than a master of one."
-  # site_logo = "images/logo.png" # replaces the site name in the top left corner with a logo image
+  site_logo = "images/logo_10.png" # replaces the site name in the top left corner with a logo image
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 1
+    ordered = false
+    startLevel = 1
 
 [[menu.main]]
   name ="Home"

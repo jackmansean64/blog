@@ -1,8 +1,9 @@
 ---
-lastmod: 2024-04-30
 title: On Balancing Individual Insight and Group Dynamics
 date: 2024-04-30
 draft: "false"
+lastmod: 2024-05-02
+toc: true
 ---
 “Learn how to ignore the examples from others when they are wrong, because few skills are more worth having.” 
 —  Charlie Munger
