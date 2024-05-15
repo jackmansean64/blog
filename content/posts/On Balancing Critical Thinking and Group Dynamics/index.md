@@ -1,9 +1,9 @@
 ---
-title: On Balancing Individual Insight and Group Dynamics
+title: On Balancing Critical Thinking and Group Dynamics
 date: 2024-04-30
 draft: "false"
-lastmod: 2024-05-02
-toc: true
+toc: "true"
+lastmod: 2024-05-14
 ---
 “Learn how to ignore the examples from others when they are wrong, because few skills are more worth having.” 
 —  Charlie Munger
@@ -16,7 +16,6 @@ toc: true
 
 “The first principle is that you must not fool yourself – and you are the easiest person to fool. So you have to be very careful about that. After you’ve not fooled yourself, it’s easy not to fool other scientists. You just have to be honest in a conventional way after that.”    
 — Richard P. Feynman
-
 ## The Challenge of Balancing Individual and Group Conclusions
 I've been thinking a lot lately about collaboration, incorporating feedback, and critical thinking. We are often told about the importance of critical thinking, thinking for yourself, first principles thinking, etc. We are also told about the importance of working with others, the enormous value in human collaboration, the difficulty of doing anything of significance on your own, etc. Yet, what do we do when the conclusions we reach individually clash with the conclusions of others or the group?
 
