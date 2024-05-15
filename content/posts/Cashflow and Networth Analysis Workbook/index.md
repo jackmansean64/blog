@@ -1,8 +1,9 @@
 ---
-title: "Cashflow And Networth Analysis Workbook"
+title: Cashflow and Networth Analysis Workbook
 date: 2024-04-16
-draft: false
-toc: true
+draft: "false"
+toc: "true"
+lastmod: 2024-05-14
 ---
 [Download Cashflow and Networth Analysis Template 1.2](https://jackmansean64.github.io/blog/files/CashflowNetworthAnalysisTemplate1.2.xlsx)
 
@@ -114,14 +115,22 @@ Due to the complexity of the workbook, various sheets include error validation t
 If you notice discrepancies in the dashboard, try performing an error check on the following sheets:
 - Transactions (for invalid categories)
 - Balance History (for missing unique account identifiers)
+## Invalid or Missing Accounts
+![image](images/Pasted_image_20240514205956.png)
+The dropdown that shows up when you try to add a new account is created and validated using the balance history records. If you are trying to add an account, and it isn't showing in the list, or you have a validation error on an existing account, likely the problem is that there isn't an associated record in the balance history sheet. 
+
+To solve this issue, simply create a balance history record for the account you want to add. It should then show up in the dropdown list and not throw any validation errors.
 ## Missing Data
-This can happen for a variety of reasons. 
+This can happen for a variety of reasons. I've listed some of the common causes and solutions below.
 ### New Labels
 If you define a new label and start using it for transactions, these transactions will initially be excluded from the dashboard sheets after a data refresh. This is a result of the pivot tables filtering out transactions with the reimbursable label, and new labels being excluded by default by pivot tables. 
 
 To resolve this, you must either:
 1. Remove the label, using the description, tag or note fields to store the information instead
 2. Navigate to each pivot table referencing the transactions table, and update the "Labels" filter to include the label if desired.
+### Missing Unique Account Identifiers
+![image](images/Pasted_image_20240514211345.png)
+If the unique account identifier formula hasn't been applied to all rows in the balance history sheet those rows will not be included in any of the dashboards. This can be identified by performing an error check on the balance history sheet. To resolve this error, use the formula fill tool from the populated cells to the unpopulated cells. See the Updating Data section for more information.
 ## Data Refresh Errors
 Data Refresh errors indicate an issue with the Excel Data Model or a PivotTable. These can also happen for a variety of reasons. Sometimes the built-in Excel error messages are useful and highlight the exact issue, but sometimes they're so ambiguous as to be effectively useless. 
 ### General Tips
