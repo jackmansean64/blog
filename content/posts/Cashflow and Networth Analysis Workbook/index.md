@@ -3,7 +3,7 @@ title: Cashflow and Networth Analysis Workbook
 date: 2024-04-16
 draft: "false"
 toc: "true"
-lastmod: 2024-05-14
+lastmod: 2024-05-15
 ---
 [Download Cashflow and Networth Analysis Template 1.2](https://jackmansean64.github.io/blog/files/CashflowNetworthAnalysisTemplate1.2.xlsx)
 
@@ -50,7 +50,7 @@ While the spending and income sheets allow your to analyze your income and spend
 
 The histogram implementation for this dashboard was created using a custom bar chart rather than the built-in excel histogram. This was due to the built-in histogram being buggy and lacking in customization. Use the histogram overflow bin minimum and maximum input cells to define the bounds of your spending histogram. Any monthly spend greater than the bounds specified will be incorporated into these overflow bins. The overflow bins help keep the histogram clean in the presence of extreme one-off months. By default, the bin widths are defined as $500. The bin width can't easily be configured, though like anything in the workbook it's technically modifiable if you're willing to invest the effort. You can see how the histogram is generated in the Income and Spending Monthly intermediate sheet.
 
-The cashflow dashboard also features an inflation adjustment feature. Enter an inflation value to adjust past spending to the present year. This adjustment is important when analyzing spending across multiple years, since nominal monthly spend values will give you a somewhat inaccurate picture of how your spending is changing over time. If this adjustment isn't desired, enter 0% as the inflation rate. Any changes to this inflation rate requires a data refresh to take effect (see Updating Data below).
+The cashflow dashboard also features an inflation adjustment feature. Enter an inflation value to adjust past spending to the present year. This adjustment is important when analyzing spending across multiple years, since nominal monthly spend values will give you a somewhat inaccurate picture of how your spending is changing over time. If this adjustment isn't desired, enter 0% as the inflation rate. Any changes to this inflation rate requires a data refresh to take effect (see [Updating Data](#updating-data)).
 
 The intermediate sheets contain a combination of pivot tables and regular excel formulas to aggregate the spending and income by month and year, as well as perform the savings rate and histogram calculations.
 
@@ -68,7 +68,7 @@ You can input a safe withdrawal rate in the cell at the top and the sheet will a
 
 This summary dashboard draws its data from intermediate cashflow sheets and assets and liabilities sheets.
 # Tiller Integration and Initial Setup
-See https://help.tillerhq.com/en/articles/2283680-getting-started-with-tiller-for-microsoft-excel and https://help.tillerhq.com/en/articles/5668286-tiller-foundations-guide#h_c338c1baa8 for an overview on setting up Tiller to integrate your accounts with the workbook and set up the foundation sheets.
+See Tiller's [Getting Started Guide](https://help.tillerhq.com/en/articles/2283680-getting-started-with-tiller-for-microsoft-excel) and [Foundations Guide](https://help.tillerhq.com/en/articles/5668286-tiller-foundations-guide#h_c338c1baa8) for an overview on setting up Tiller to integrate your accounts with the workbook and set up the foundation sheets.
 
 Once you have a Tiller account setup and linked to the workbook, you can import your transactions and balance history data. Follow the Tiller guides above to fill your workbook using the Tiller Money Feeds add-on. 
 
@@ -78,13 +78,13 @@ To import existing transactions and balance history records, you can copy-paste 
 
 The workbook initially contains placeholder data in the foundation sheets intended to be overwritten with your data. The purpose of this placeholder data is to help keep the workbook in a valid state, as removing all data can cause errors and changes to pivot table configurations. Overwrite and add to this sample data rather than deleting it first to reduce the likelihood of problems. Take extra care not to perform a data refresh when no data is present. If you do, you will likely be better off starting again from a fresh workbook rather than trying to address the issues.
 
-Finally, it's time to configure your accounts (https://help.tillerhq.com/en/articles/3250970-reviewing-balances-customizing-accounts) and categories (https://help.tillerhq.com/en/articles/3250769-customizing-categories). You can verify your accounts are setup correctly by inspecting the Balances sheet.
+Finally, it's time to configure your [Accounts](https://help.tillerhq.com/en/articles/3250970-reviewing-balances-customizing-accounts) and [Categories](https://help.tillerhq.com/en/articles/3250769-customizing-categories). You can verify your accounts are setup correctly by inspecting the Balances sheet.
 # General Usage
 
 ## Updating Data
 Once the initial setup is complete you can update the workbook periodically with new transaction and balance history entries as they come in.
 
-Next, you must categorize your transactions. Follow the guidelines described in the Tiller Foundations guides above. The transactions sheet features validation on the category column which helps prevent invalid categories from being assigned. Tiller offers an auto-categorization feature (https://help.tillerhq.com/en/articles/6172979-autocat-for-microsoft-excel) for those interested in automating this process as much as possible, though personally I don't use it as I find the process of manually reviewing, categorizing, and reflecting on each transaction highly valuable. 
+Next, you must categorize your transactions. Follow the guidelines described in the Tiller Foundations guides above. The transactions sheet features validation on the category column which helps prevent invalid categories from being assigned. Tiller offers an [auto-categorization](https://help.tillerhq.com/en/articles/6172979-autocat-for-microsoft-excel) feature for those interested in automating this process as much as possible, though personally I don't use it as I find the process of manually reviewing, categorizing, and reflecting on each transaction highly valuable. 
 
 Next, verify that the Unique Account Identifier column in your Balance History sheet is populated for each row. This column is a custom add-on, and is critical for the dashboards and intermediate sheets to function correctly. If there are empty cells, simply apply the formula to the blank cells using the fill handle.
 
@@ -99,12 +99,15 @@ Often, our financial data contains numerous transactions that we do not want to 
 ## Excluding The Present Month
 As this workbook is designed predominantly for monthly analysis, I find that the present month's data often provides little value and mainly just obscures the rest of the data since it isn't yet complete. To alleviate this, some of the dashboard feature a "Present Month" slicer:
 ![image](images/Pasted_image_20240411091503.png)
+
 To exclude the present month, select FALSE. If you want to see all months including the present month, select both TRUE and FALSE (this is counter-intuitive I know, but it's the best solution I could come up with given the limitations of pivot table filters).
 ## Configuring Moving Average Trendlines
 The Cashflow and Networth Summary and Cashflow dashboards feature moving average trendlines to help you understand your data. These trendlines are created by averaging the values over a configurable number of prior periods, and thus may need to be adjusted based on the amount of data you have. As you accumulate more data you will likely want to increase the averaging window to determine longer term trends. 
 
-The period over which these averages are calculated can be configured by right clicking on a chart, selecting "Format chart area" and then selecting the trendlines from the chart options dropdown as shown below. 
+The period over which these averages are calculated can be configured by right clicking on a chart, selecting "Format chart area" and then selecting the trendlines from the chart options dropdown as shown below.
+
 ![image](images/Pasted_image_20240216092538.png)
+
 Then, select "Trendline Options" and modify the period as shown:
 ![image](images/Pasted_image_20240216092718.png)
 # Troubleshooting
@@ -117,7 +120,8 @@ If you notice discrepancies in the dashboard, try performing an error check on t
 - Balance History (for missing unique account identifiers)
 ## Invalid or Missing Accounts
 ![image](images/Pasted_image_20240514205956.png)
-The dropdown that shows up when you try to add a new account is created and validated using the balance history records. If you are trying to add an account, and it isn't showing in the list, or you have a validation error on an existing account, likely the problem is that there isn't an associated record in the balance history sheet. 
+
+The dropdown that shows up when you try to add a new account is created and validated using the balance history records. If you are trying to add an account and it isn't showing in the list, or you have a validation error on an existing account, likely the problem is that there isn't an associated record in the balance history sheet. 
 
 To solve this issue, simply create a balance history record for the account you want to add. It should then show up in the dropdown list and not throw any validation errors.
 ## Missing Data
@@ -130,7 +134,7 @@ To resolve this, you must either:
 2. Navigate to each pivot table referencing the transactions table, and update the "Labels" filter to include the label if desired.
 ### Missing Unique Account Identifiers
 ![image](images/Pasted_image_20240514211345.png)
-If the unique account identifier formula hasn't been applied to all rows in the balance history sheet those rows will not be included in any of the dashboards. This can be identified by performing an error check on the balance history sheet. To resolve this error, use the formula fill tool from the populated cells to the unpopulated cells. See the Updating Data section for more information.
+If the unique account identifier formula hasn't been applied to all rows in the balance history sheet those rows will not be included in any of the dashboards. This can be identified by performing an error check on the balance history sheet. To resolve this error, use the formula fill tool from the populated cells to the unpopulated cells. See the [Updating Data](#updating-data) section for more information.
 ## Data Refresh Errors
 Data Refresh errors indicate an issue with the Excel Data Model or a PivotTable. These can also happen for a variety of reasons. Sometimes the built-in Excel error messages are useful and highlight the exact issue, but sometimes they're so ambiguous as to be effectively useless. 
 ### General Tips
@@ -146,7 +150,7 @@ To address the error by narrowing down the specific table in which the error is 
 1. Undo the failed data refresh / restore the spreadsheet to a state prior to the error occurring
 2. Introduce the desired change
 3. Troubleshoot the Excel Data Model
-	1. Open Power Pivot and the Excel Data Model (see Advanced Functionality below)
+	1. Open Power Pivot and the Excel Data Model (see [Advanced Functionality](#advanced-functionality))
 	2. Refresh each data model table one by one and see if the error occurs
 	3. If an error occurs, hopefully it provides some information as to what the problem is. If not, inspect the source table looking for differences in cell value formatting, missing values, reference errors, etc.
 4. If the data model refreshes successfully, you need to start troubleshooting all the pivot tables in the workbook. 
@@ -180,7 +184,7 @@ The following sections describe some of the more advanced functionality behind t
 ## Power Pivot and the Excel Data Model
 The Excel Data Model allows you to conveniently reference multiple tables at once as a single data source. This allows for the creation of pivot tables that can draw data from multiple tables.
 
-When using the Data Model, it's highly beneficial to have Power Pivot installed. Follow the instructions provided by Microsoft here: https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8. 
+When using the Data Model, it's highly beneficial to have Power Pivot installed. Follow the [instructions provided by Microsoft](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8).
 
 Once installed, navigate to the new Power Pivot toolbar and select "Manage"
 ![image](images/Pasted_image_20240221112140.png)
@@ -199,11 +203,12 @@ You can see all the named formulas in the workbook by navigating to the Formulas
 To see how these named references are wired up to the charts, you can right click on a standard chart (you can determine if a chart is a pivot chart if the "Pivot Table Analyze" toolbar shows up when you select it), click "Select Data", and then edit one of the dynamic data series:
 ![image](images/Pasted_image_20240222092252.png)
 ![image](images/Pasted_image_20240222092256.png)
-So in the above example, the "Spending" series values in the Cashflow and Networth summary chart is set to `='Cashflow and Networth Analysis.xlsx'!DynamicSpendingMonthly` (you also need to reference the workbook when referencing names from charts for some reason). This points to the named reference `DynamicSpendingMonthly`, which you can see from the Name Manager points to the formula `=GetDynamicRange('Income and Spending Monthly'!$H$7, 'Income and Spending Monthly'!$H:$H, 1)` (all cell references in the name manager must be absolute references i.e. `$H` must be used in place of `H`). Now, there's still one more layer of indirection: `GetDynamicRange` isn't a built in Excel function, it's a custom function. See Custom Functions below for how these work.
+
+So in the above example, the "Spending" series values in the Cashflow and Networth summary chart is set to `='Cashflow and Networth Analysis.xlsx'!DynamicSpendingMonthly` (you also need to reference the workbook when referencing names from charts for some reason). This points to the named reference `DynamicSpendingMonthly`, which you can see from the Name Manager points to the formula `=GetDynamicRange('Income and Spending Monthly'!$H$7, 'Income and Spending Monthly'!$H:$H, 1)` (all cell references in the name manager must be absolute references i.e. `$H` must be used in place of `H`). Now, there's still one more layer of indirection: `GetDynamicRange` isn't a built in Excel function, it's a [Custom Functions](#custom-functions).
 
 It's worth noting that the process of referencing named formulas in charts can be very fussy. For example, Excel will throw an annoying error (which doesn't even seem legitimate since everything seems to work fine) if you try to reference a name in a chart that refers to anything more complex than a single function (for example, a function multiplied by -1, or two functions added together). Incorporating the additional calculation into the source data to keep the named reference simple resolves the issue. 
 ## Custom Functions
-Custom functions are extremely useful for reusing complex formulas. There are likely multiple ways to create custom functions, but the method I used was through Excel Labs https://www.microsoft.com/en-us/garage/profiles/excel-labs/. 
+Custom functions are extremely useful for reusing complex formulas. There are likely multiple ways to create custom functions, but the method I used was through [Excel Labs](https://www.microsoft.com/en-us/garage/profiles/excel-labs/).
 
 Once installed, you can open the Excel Labs pane by navigating to the Home toolbar and clicking Excel Labs on the far right:
 ![image](images/Pasted_image_20240223090713.png)
