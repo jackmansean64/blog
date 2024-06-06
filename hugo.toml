@@ -1,4 +1,4 @@
-baseURL = 'https://jaqkofalltrades.com'
+baseURL = 'https://jaqkofalltrades.com/'
 languageCode = 'en-us'
 title = 'JAQK of All Trades'
 theme = 'ananke'
