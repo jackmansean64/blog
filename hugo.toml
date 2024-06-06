@@ -1,4 +1,4 @@
-baseURL = 'https://jackmansean64.github.io/blog/'
+baseURL = 'https://jaqkofalltrades.com'
 languageCode = 'en-us'
 title = 'JAQK of All Trades'
 theme = 'ananke'
@@ -8,6 +8,7 @@ theme = 'ananke'
 
 [params]
   site_logo = "images/logo_10.png" # replaces the site name in the top left corner with a logo image
+  commentoEnable = true
 
 [markup]
   [markup.tableOfContents]
