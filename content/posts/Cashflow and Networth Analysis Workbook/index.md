@@ -5,7 +5,8 @@ draft: "false"
 toc: "true"
 lastmod: 2024-09-20
 ---
-[Download Cashflow and Networth Analysis Template 1.2](https://jackmansean64.github.io/blog/files/CashflowNetworthAnalysisTemplate1.2.xlsx)
+[Download Cashflow and Networth Analysis Template 1.3](https://jackmansean64.github.io/blog/files/cashflow_and_networth_analysis_template_1.3.xlsx)
+
 [Download Tiller Data Copy Tool](https://jackmansean64.github.io/blog/files/copy_tiller_data.exe)
 
 [Tiller Community Post](https://community.tillerhq.com/t/cashflow-and-networth-analysis-workbook-excel/25581)
