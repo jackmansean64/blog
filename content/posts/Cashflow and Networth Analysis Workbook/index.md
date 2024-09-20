@@ -3,9 +3,10 @@ title: Cashflow and Networth Analysis Workbook
 date: 2024-04-16
 draft: "false"
 toc: "true"
-lastmod: 2024-06-26
+lastmod: 2024-09-20
 ---
 [Download Cashflow and Networth Analysis Template 1.2](https://jackmansean64.github.io/blog/files/CashflowNetworthAnalysisTemplate1.2.xlsx)
+[Download Tiller Data Copy Tool](https://jackmansean64.github.io/blog/files/copy_tiller_data.exe)
 
 [Tiller Community Post](https://community.tillerhq.com/t/cashflow-and-networth-analysis-workbook-excel/25581)
 # Overview
