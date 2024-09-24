@@ -7,7 +7,9 @@ lastmod: 2024-09-20
 ---
 [Download Cashflow and Networth Analysis Template 1.3](https://jackmansean64.github.io/blog/files/cashflow_and_networth_analysis_template_1.3.xlsx)
 
-[Download Tiller Data Copy Tool](https://jackmansean64.github.io/blog/files/copy_tiller_data.exe)
+[Download Tiller Data Copy Tool exe](https://jackmansean64.github.io/blog/files/copy_tiller_data.exe)
+
+[Tiller Data Copy Tool Source Code](https://github.com/jackmansean64/scripts/tree/main/copy-tiller-data)
 
 [Tiller Community Post](https://community.tillerhq.com/t/cashflow-and-networth-analysis-workbook-excel/25581)
 # Overview
