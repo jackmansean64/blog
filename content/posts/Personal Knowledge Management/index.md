@@ -3,7 +3,7 @@ title: Personal Knowledge Management
 date: 2024-05-17
 draft: "false"
 toc: "true"
-lastmod: 2024-05-17
+lastmod: 2024-09-30
 ---
 # What is Personal Knowledge Management?
 Personal Knowledge Management (PKM) is a [conceptual framework](https://dl.ifip.org/db/conf/i3e/i3e2007-2/ZhaoCG07.pdf) to organize and integrate information that we, as individuals, feel is important so that it becomes part of our personal knowledge base. It is a [bottom up approach to knowledge management](https://en.wikipedia.org/wiki/Personal_knowledge_management#CITEREFPollard2008), and a response to the idea that knowledge workers need to be [responsible for their own growth and learning](https://link.springer.com/article/10.1057/ori.2009.11), 
@@ -99,7 +99,7 @@ In his famous talk, The Psychology of Human Misjudgment, Charlie Munger describe
 
 "One common, beneficial example for us both was Warren’s uncle, Fred Buffett, who cheerfully did the endless grocery-store work that Warren and I ended up admiring from a safe distance. Even now, after I have known so many other people, I doubt if it is possible to be a nicer man than Fred Buffett was, and he changed me for the better."
 
-I believe there is great value in identifying people you admire, and incorporating them into a PKM. These admirable people, their ideas, work, and attributes, can serve as valuable role models and connections within your PKM. 
+I believe there is great value in identifying people you admire, and incorporating their key ideas into a PKM by via quotes or summaries of their work and ideas. These admirable people, their ideas, work, and attributes, can serve as valuable role models and connections within your PKM. 
 
 Content we admire can serve a similar purpose. This could be art, music, books, articles, designs, anything that you admire and feel inspired by. 
 ## Anything You Want to Learn
@@ -136,7 +136,7 @@ Once you've brought all your notes into your writing / notetaking app of choice,
 1. Restructuring - Reformulating the new information to fit within your knowledge base. This involves creating new folders and notes, copy pasting from highlights to notes, rewording information, etc.
 2. Summarizing - Distilling the new information into the core ideas in your own words. This process helps you understand and remember the content, while also compressing it to keep your knowledge base concise. 
 3. Linking - Leveraging the power of linking notes together described in the [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) method. Linking notes together freely helps you discover connections between seemingly disparate ideas, identify shared ideas across domains, develop abstractions, and navigate your knowledge, all of which enhances creativity and retention.
-4. Tagging - Similar to linking, tagging allows for additional means of organizing and connecting information beyond your folder and note structure. With certain apps like Obsidian, links and tags also have the added benefit of creating really cool [knowledge graphs](https://chrisbowler.com/content/images/size/w900/2021/02/Library-on-Feb-13.jpg)
+4. Tagging - Similar to linking, tagging allows for additional means of organizing and connecting information beyond your folder and note structure. With certain apps like Obsidian, links and tags also have the added benefit of creating really cool [knowledge graphs](https://chrisbowler.com/content/images/size/w900/2021/02/Library-on-Feb-13.jpg).
 ## Step 4a. and 4b. Create and Study Spaced Repetition Flashcards (Optional)
 One of the [best ways to memorize information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8759977/#:~:text=The%20spacing%20effect%20was%20first,at%20different%20intervals%20%5B6%5D.) is to create flashcards and review a subset of them every day following a spaced repetition algorithm. I use [Anki](https://apps.ankiweb.net/) for this.
 
