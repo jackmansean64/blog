@@ -1,7 +1,7 @@
 ---
 title: The Price of Scarcity - From Concert Tickets to Natural Disasters
 date: 2025-10-20
-draft: "false"
+draft: "true"
 toc: "true"
 lastmod: 2025-10-20
 ---
@@ -21,7 +21,7 @@ The first documented account of ticket speculation was via a letter from singer 
 So, it's clear that the practice dates back hundreds of years at minimum and in all likelihood has been around in some form for as long as humans have been trading with each other.
 # What Defines Scalping Exactly?
 Scalping is one of those hard to pin down concepts that appears straightforward at first glance but proves slippery as soon as you try to precisely define it. I'll attempt to elucidate the term first by reviewing some core definitions and concepts related to scalping, followed by discussing the behaviour people generally associate with scalping, and finally attempting to aggregate it all into my own definition.
-## ==Definitions and Concepts==
+## Definitions and Concepts
 While almost everyone would agree that scalping isn't limited to event tickets, tickets are the most common form and thus many definitions focus on this aspect. For the purpose of this discussion, we will assume scalping can occur with any product, service, or asset.
 
 Here are some basic dictionary definitions for "scalper":
@@ -111,7 +111,7 @@ Another example of dynamic pricing is the surge pricing implemented by Uber. Whe
 This caused the number of drivers in the area to increase by up to twice the pre-surge baseline as drivers flocked to the lucrative area. In addition, the surge pricing helped allocate rides to those that valued them most. While the number of app openings increased dramatically, the number of actual requests didn't increase proportionally indicating that many people noticed the surge pricing and decided to wait until the surge ended or find an alternate way home. As a result, wait times remained low and the completion rate (the percentage of requested rides that ended in a completed trip) remained constant. 
 
 Of course, given that this case study was written by Uber we should take these results with a grain of salt. However, these results should come as no surprise given our understanding of economics. We will revisit these effects many times in this post.
-### ==Preventing Resale==
+### Preventing Resale
 Finally, and the most popular option by the general public is to make scalping impossible and throw those filthy scalpers in jail! (I exaggerate people's vitriol only slightly.) The problem is that the line between legitimate resale and scalping is a blurry one, and many policies that prevent scalping also hurt consumers as well, for example by preventing them from reselling their products that they can no longer make use of (e.g. a concert goer gets sick at the last minute). 
 
 In some scenarios, systems preventing resale can be easily implemented by assigning tickets to individuals and verifying that the same individuals use them. Many transport tickets like airplane and ferry tickets work like this. Performers have tried this on occasion, such as Miley Cyrus and Bruce Springsteen. 
