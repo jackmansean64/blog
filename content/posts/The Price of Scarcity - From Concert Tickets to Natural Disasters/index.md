@@ -1,7 +1,7 @@
 ---
 title: The Price of Scarcity - From Concert Tickets to Natural Disasters
 date: 2025-10-20
-draft: "true"
+draft: "false"
 toc: "true"
 lastmod: 2025-10-20
 ---
