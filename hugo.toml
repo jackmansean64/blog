@@ -7,7 +7,7 @@ theme = 'ananke'
   unsafe = true # Allow HTML in md files
 
 [params]
-  site_logo = "images\jaqk of all trades v3 small.png" # replaces the site name in the top left corner with a logo image
+  site_logo = "images/jaqk of all trades v3 small.png" # replaces the site name in the top left corner with a logo image
   commentoEnable = true
 
 [markup]
