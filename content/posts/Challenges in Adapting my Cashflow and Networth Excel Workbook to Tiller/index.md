@@ -1,9 +1,11 @@
 ---
-title: "Challenges In Adapting My Cashflow And Networth Excel Workbook To Tiller"
+title: Challenges in Adapting my Cashflow and Networth Excel Workbook to Tiller
 date: 2024-04-26
-draft: false
-toc: true
+draft: "false"
+toc: "true"
+lastmod: 2025-11-03
 ---
+
 ## Background
 Unsurprisingly, Tiller's Foundation Template organizes transaction and account data slightly differently than I had been in my existing spreadsheet. In order to integrate cleanly with Tiller and avoid having to manual massage data every month or implement complex, extraneous Excel logic to transform the Tiller data into the format my spreadsheet needs, a revamp of my spreadsheet was in order. 
 
@@ -14,7 +16,7 @@ In my existing spreadsheet, my main transaction sheet included a column "Super C
 ### Challenge
 Given that my financial data would now be organized cleanly into unique tables, the next question became how best to summarize data from multiple tables for the purpose of reporting and visualization?
 ### Solution
-Power Pivot and the [Excel Data Model](https://www.blogger.com/blog/post/edit/8091961146060524972/250924320596925505?hl=en#) seems to be a reasonable solution to this issue so far. The data model allows you to reference multiple tables and create a pivot table using columns from each table as its source data. Once installed, it was as simple as selecting a table, navigating to the Power Pivot tab, and clicking Add to Data Model. Once added, a pivot table can be created from a data model by navigating to Insert => PivotTable => From Data Model. This pivot table will have access to the columns in each table making it really easy to pivot and combine data across multiple tables.
+Power Pivot and the [Excel Data Model](https://support.microsoft.com/en-us/office/create-a-data-model-in-excel-87e7a54c-87dc-488e-9410-5c75dbcb0f7b) seems to be a reasonable solution to this issue so far. The data model allows you to reference multiple tables and create a pivot table using columns from each table as its source data. Once installed, it was as simple as selecting a table, navigating to the Power Pivot tab, and clicking Add to Data Model. Once added, a pivot table can be created from a data model by navigating to Insert => PivotTable => From Data Model. This pivot table will have access to the columns in each table making it really easy to pivot and combine data across multiple tables.
 ## Multiplying by Negative One
 ### Problem
 Tiller's debit transactions are reported as negatives while credit transactions are positive. This differed from my previous transaction data based on Mint exports, where both credit and debit transactions are positive.
@@ -29,9 +31,9 @@ In my prior spreadsheet implementation, I was able to accomplish this using calc
 
 However, upon trying to do the same with the new spreadsheet I ran into a problem; The calculated field option was grayed out!
 
-It turns out that calculated pivot table fields are only available for pivot tables that don't rely on the [Excel Data Model](https://www.blogger.com/blog/post/edit/8091961146060524972/250924320596925505?hl=en#). In my attempts to simplify my spreadsheet, I recognized that I could create pivot tables from multiple source tables rather than having to create intermediate tables. Said another way, rather than creating an intermediate table from [fact and dimension tables](https://www.blogger.com/blog/post/edit/8091961146060524972/250924320596925505?hl=en#), I could reference both the fact and dimension table in the data model and create a pivot table in one step! One step forward, one step back. 
+It turns out that calculated pivot table fields are only available for pivot tables that don't rely on the Excel Data Model. In my attempts to simplify my spreadsheet, I recognized that I could create pivot tables from multiple source tables rather than having to create intermediate tables. Said another way, rather than creating an intermediate table from [fact and dimension tables](https://en.wikipedia.org/wiki/Star_schema), I could reference both the fact and dimension table in the data model and create a pivot table in one step! One step forward, one step back. 
 ### Solution
-Not wanting to unwind the benefits I'd just found of using the data model, I investigated ways of getting around this limitation. One solution that showed up in my searches was to use [Power Pivot](https://www.blogger.com/blog/post/edit/8091961146060524972/250924320596925505?hl=en#). I was initially hesitant to learn an entirely new add-on, but after playing around with various pivot table settings and messy intermediate calculations I decided to give it a go.
+Not wanting to unwind the benefits I'd just found of using the data model, I investigated ways of getting around this limitation. One solution that showed up in my searches was to use [Power Pivot](https://support.microsoft.com/en-us/office/start-the-power-pivot-add-in-for-excel-a891a66d-36e3-43fc-81e8-fc4798f39ea8). I was initially hesitant to learn an entirely new add-on, but after playing around with various pivot table settings and messy intermediate calculations I decided to give it a go.
 
 Power Pivot turned out to be really easy to use, at least in this regard. All I had to do was install it, find it in the tool bar, click manage, and then add a new custom column to my data model with the desired formula! At that point, I could very easily add said custom column to pivot tables referencing that data model. 
 ## Summarizing Account Balances By Month for Arbitrary Dates
@@ -127,7 +129,7 @@ At some point during the development of my Tiller compatible spreadsheet, I real
 ### Challenge
 From the first time you read this error message it's immediately obvious how bad of an error it is. Rather than highlighting a specific problem in the spreadsheet, it vaguely states there's a problem with one or more references somewhere in the workbook, and then suggests checking various things. 
 
-Googling this error provides various solution ideas (for [example](https://www.blogger.com/blog/post/edit/8091961146060524972/250924320596925505?hl=en#)), and makes it clear that these errors can be nasty and difficult to isolate in complex spreadsheets... great!   
+Googling this error provides various solution ideas (for [example](https://www.repairmsexcel.com/blog/fix-excel-found-a-problem-with-one-or-more-formula-references-error)), and makes it clear that these errors can be nasty and difficult to isolate in complex spreadsheets... great!   
 ### Solution
 After trying every solution provided online I could find without success (though I stumbled across a couple other minor issues in the process so it wasn't entirely a waste), I eventually managed to isolate the error by deleting sheets from the workbook one by one until the error disappeared. Using this method, I was able to establish that deleting the Networth Dashboard and Cashflow and Networth Summary sheets eliminated the error! 
 
