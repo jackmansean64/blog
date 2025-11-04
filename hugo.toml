@@ -2,6 +2,10 @@ baseURL = 'https://jaqkofalltrades.com/'
 languageCode = 'en-us'
 title = 'JAQK of All Trades'
 theme = 'ananke'
+enableGitInfo = true
+
+[frontmatter]
+  lastmod = [":git", "lastmod", ":fileModTime", "date"]
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
