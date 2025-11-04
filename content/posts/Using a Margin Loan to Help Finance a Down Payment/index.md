@@ -32,5 +32,5 @@ Typically margin accounts and margin loans are used to achieve leveraged investi
 
 Problems may arise if you already own the stocks you want to use as collateral in a margin account since you won't be able to show stock purchases following the withdrawal on margin which would make it difficult to prove to the CRA that the money was used for income producing purposes. You may be able to sell and re-purchase the shares in the margin account (or sell and open a new margin account to purchase the shares) but this could trigger a capital gain and a large tax bill which could easily outweigh any benefits of the strategy. 
 ## Sources
-- [https://turbotax.intuit.ca/tips/is-interest-deductible-5459](https://www.blogger.com/blog/post/edit/8091961146060524972/1419657175261900921?hl=en#)
-- [https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-6-interest/income-tax-folio-s3-f6-c1-interest-deductibility.html#toc19](https://www.blogger.com/blog/post/edit/8091961146060524972/1419657175261900921?hl=en#)
+- [TurboTax - Is Interest Deductible](https://turbotax.intuit.ca/tips/is-interest-deductible-5459)
+- [CRA Interest Deductibility](https://www.canada.ca/en/revenue-agency/services/tax/technical-information/income-tax/income-tax-folios-index/series-3-property-investments-savings-plans/series-3-property-investments-savings-plan-folio-6-interest/income-tax-folio-s3-f6-c1-interest-deductibility.html#toc19)

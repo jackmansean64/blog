@@ -85,7 +85,7 @@ I accomplished this using the following three columns and formulas:
 
 For the first column, I enumerated the current month. 
 
-For the second, I calculated the maximum month number in the current year by finding the maximum month number in the range of cells from the current row to the last row in the given year following an example I found [here](https://www.blogger.com/blog/post/edit/8091961146060524972/250924320596925505?hl=en#). Lets break down how the formula above accomplishes this:
+For the second, I calculated the maximum month number in the current year by finding the maximum month number in the range of cells from the current row to the last row in the given year following an example I found [here](https://exceluser.com/how-to-use-sumproduct-to-find-the-last-item-in-an-excel-list/). Lets break down how the formula above accomplishes this:
 
 `=MAX(OFFSET($J5,0,0,MAX(ROW($B5:$B$360)*($B5=$B5:$B$360)-4)))`
 
