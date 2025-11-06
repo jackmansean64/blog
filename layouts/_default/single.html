@@ -1,3 +1,9 @@
+{{/*
+  CUSTOM OVERRIDE: This file overrides themes/ananke/layouts/_default/single.html
+  Only modification: Lines 45-52 add lastmod (last modified date) display
+  Rest of file is copied from Ananke theme to enable this override
+*/}}
+
 {{ define "header" }}
    {{/* We can override any block in the baseof file be defining it in the template */}}
   {{ partial "page-header.html" . }}
@@ -36,6 +42,7 @@
       </time>
       {{end}}
 
+      {{/* ============ CUSTOM LASTMOD DISPLAY START ============ */}}
       {{/* Display last modified date if it's different from the published date */}}
       {{ if and (not .Lastmod.IsZero) (ne (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02")) }}
       <span class="f6 mv4 dib tracked">
@@ -45,6 +52,7 @@
         </time>)
       </span>
       {{end}}
+      {{/* ============ CUSTOM LASTMOD DISPLAY END ============ */}}
 
       {{/*
           Show "reading time" and "word count" but only if one of the following are true:
